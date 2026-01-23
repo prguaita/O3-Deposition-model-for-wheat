@@ -1,7 +1,7 @@
 # 🌾 O3-Deposition-model-for-Guaita-et-al.-2025-
 
 [![License: Copyright © 2025](https://img.shields.io/badge/license-proprietary-red.svg)](#)  
-[![DOI (2025 paper)](https://img.shields.io/badge/DOI-10.1111/gcb.70643.svg)](#)  
+[![DOI (2025 paper)](https://img.shields.io/badge/DOI-10.1111%2Fgcb.70643-blue.svg)](https://doi.org/10.1111/gcb.70643)
 [![Zenodo Repository](https://img.shields.io/badge/Zenodo-Data%20Repository-lightgrey.svg)](https://doi.org/10.5281/zenodo.17501006)
 
 Code associated with the study  
@@ -48,6 +48,7 @@ Model outputs are available through the **Zenodo** repository:
 For questions or permissions, please contact the corresponding authors:  
 📧 **Pierluigi Renan Guaita** — [guaita.pierluigi@gmail.com](mailto:guaita.pierluigi@gmail.com)  
 📧 **Giacomo Gerosa** — [giacomo.gerosa@unicatt.it](mailto:giacomo.gerosa@unicatt.it)
+
 
 
 
